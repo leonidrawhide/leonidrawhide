@@ -2,7 +2,7 @@
 - I'm styding frontend development, currently i'm into JS and React
 - First year student at Kosygin Russian State University where I study automation of technological processes and production
 - Finished College of Instrument Engineering and Information Technology where I was studying optoelectronics 
-
+- Check out what im working on! https://leonidrawhide.github.io/pokedex/#
 <!---
 leonidrawhide/leonidrawhide is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
