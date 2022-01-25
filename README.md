@@ -1,5 +1,5 @@
 - Hi, my name is Leonid!
-- I'm styding frontend development, currently i'm into JS and React
+- I'm studying frontend development, currently i'm into JS and React
 - First year student at Kosygin Russian State University where I study automation of technological processes and production
 - Finished College of Instrument Engineering and Information Technology where I was studying optoelectronics 
 - Check out what im working on! https://leonidrawhide.github.io/pokedex/#
