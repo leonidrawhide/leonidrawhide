@@ -1,6 +1,6 @@
 🦁 Hi, my name is Leonid! 🦁
 
-👨🏻‍💻 I'm studying frontend development, currently i'm into JS and React 👨🏻‍💻
+👨🏻‍💻 I'm studying frontend development, i know JS, React and Angular 👨🏻‍💻
 
 🎓 Freshman at [Kosygin Russian State University](https://kosygin-rgu.ru/) where I study automation of technological processes and production 🎓
 
